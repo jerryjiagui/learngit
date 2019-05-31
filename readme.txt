@@ -1,2 +1,3 @@
 £Ç£é£ô¡¡£é£ó¡¡£á¡¡distributed £ö£å£ò£ó£é£ï£î¡¡£ã£ï£î£ô£ò£ï£ì¡¡£ó£ù£ó£ô£å£í
 £Ç£é£ô¡¡£é£ó¡¡truly a £æ£ò£å£å¡¡£ó£ï£æ£ô£÷£á£ò£å
+git has a mutable index called stage
